@@ -3,7 +3,7 @@
  */
 public class Run3 {
     public static void main(String[] args) {
-        int time = 3;
+        int time = 0;
         int count = 0;
         while (time <= 24) {
             if (time == 0) {
